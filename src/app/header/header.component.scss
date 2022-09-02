@@ -1,0 +1,13 @@
+#header {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-image: linear-gradient(to right, rgba(137, 138, 100, 0.7), rgba(35, 73, 80, 0.9)), url("https://cdn.discordapp.com/attachments/966965279466864664/1015169153079967744/pexels-guillaume-meurice-2529179.jpg");
+
+    .first-line , .second-line , .third-line {
+        color: white;
+    }
+
+    .second-line , .third-line {
+        font-weight: 400;
+    }
+}
